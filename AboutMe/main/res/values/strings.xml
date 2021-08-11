@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ella Rose Cabalatungan</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="Bio">Hi! My name is Ella.
+        \n\nI love cats.
+        \n\nI have a cat back home.
+        \nHis name is Pig~~
+        \nPig is a "Pusang Pinoy" with a shade of white and orange stripes.
+        \nHe has been with me since I was in Senior High.
+        \n\nI have not been home for the longest time due to the pandemic.
+        \nAnd that meant not seeing my cat :(
+        \nI hope things will get back to normal soon.
+        \nBecause being far from the ones you love sucks.
+        \n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
